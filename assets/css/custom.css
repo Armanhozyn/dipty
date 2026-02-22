@@ -701,6 +701,7 @@ body.dark .tokyo_tm_modalbox_about .description_wrap{
     gap: 8px;
 }
 .tokyo_tm_services .service-points li{
+    position: relative;
     margin: 0;
     padding: 7px 12px;
     font-size: 13px;
@@ -710,6 +711,17 @@ body.dark .tokyo_tm_modalbox_about .description_wrap{
     border: 1px solid #e4ebff;
     border-radius: 999px;
     transition: all .3s ease;
+}
+.tokyo_tm_services .service-points li:not(:last-child)::after{
+    content: "";
+    position: absolute;
+    right: -6px;
+    top: 50%;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background-color: #cfd9fb;
+    transform: translateY(-50%);
 }
 .tokyo_tm_services .service-points li:hover{
     background-color: #eaf0ff;
