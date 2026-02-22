@@ -125,28 +125,16 @@
 	overflow: hidden;
 	overflow-y: scroll;
 	
-	opacity: 0;
-	visibility: hidden;
-	z-index: 8;
-	transition: visibility 1s linear, opacity 0s linear;
-	-moz-transition: visibility 1s linear, opacity 0s linear;
-	-webkit-transition: visibility1s linear, opacity 0s linear;
-	-o-transition: visibility 1s linear, opacity 0s linear;
+    /* Removed opacity, visibility, z-index, and transitions for normal display */
 }
 .tokyo_tm_section.animated {
-	opacity: 1;
-	visibility: visible;
-	z-index: 9;
+    /* Removed for normal display */
 }
 .tokyo_tm_section.active {
-	opacity: 1;
-	visibility: visible;
-	z-index: 10;
+    /* Removed for normal display */
 }
 .tokyo_tm_section.hidden {
-	opacity: 0;
-	visibility: hidden;
-	z-index: 9;
+    /* Removed for normal display */
 }
 .tokyo_tm_section::-webkit-scrollbar{
   width: 0px;
