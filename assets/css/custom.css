@@ -708,3 +708,24 @@ body.dark .tokyo_tm_modalbox_about .description_wrap{
 @media (max-width: 1040px) {
 	.tokyo_tm_intro .demos img{max-width: 100px;}
 }
+
+.tokyo_tm_services .service-points{
+    margin-top: 14px;
+}
+.tokyo_tm_services .service-points li{
+    margin: 0;
+    padding: 0 0 8px 0;
+    margin-bottom: 8px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #e4e4e4;
+    border-bottom: 1px solid #e8e8e8;
+    transition: all .3s ease;
+}
+.tokyo_tm_services .service-points li:hover{
+    border-bottom-color: #d7d7d7;
+    color: #2f3f74;
+}
+.tokyo_tm_services .service-points li:last-child{
+    margin-bottom: 0;
+}
