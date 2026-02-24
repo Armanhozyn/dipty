@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="dtrixithub.com">
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/plugins.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <title>Dipty - Portfolio</title>
+</head>
+<body class="dark">
+
+    <!-- WRAPPER ALL -->
+    <div class="tokyo_tm_all_wrap" data-magic-cursor="show" data-enter="fadeInLeft" data-exit=""> 
+
+		<!-- PRELOADER -->
+		<div id="preloader">
+			<div class="loader_line"></div>
+		</div>
+		<!-- /PRELOADER -->
+
+		<!-- MOBILE MENU -->
+		<div class="tokyo_tm_topbar bg-white fixed top-0 left-0 right-0 h-[50px] z-[14] hidden">
+			<div class="topbar_inner w-full h-full clear-both flex items-center justify-between py-0 px-[20px]">
+				<div class="logo" data-type="image"> <!-- You can use image or text as logo. data-type values are "image" and "text" -->
+					<a href="home.html">
+						<img class="max-w-[100px] max-h-[40px]" src="assets/img/logo/logod.png" alt="" />
+						<h3 class="font-black font-poppins text-[25px] tracking-[4px]">DIPTY</h3>
+					</a>
+				</div>
+				<div class="trigger relative top-[5px]">
+					<div class="hamburger hamburger--slider">
+						<div class="hamburger-box w-[30px]">
+							<div class="hamburger-inner"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="tokyo_tm_mobile_menu fixed top-[50px] right-[-200px] h-[100vh] w-[200px] z-[15] bg-white transition-all duration-300">
+			<div class="menu_list w-full h-auto clear-both float-left text-right px-[20px] pt-[100px] pb-[0px]">
+				<ul class="transition_link list-none">
+					<li class="mb-[7px]"><a class="text-black font-montserrat" href="home.html">Home</a></li>
+					<li class="mb-[7px]"><a class="text-black font-montserrat" href="about.html">About</a></li>
+					<li class="mb-[7px]"><a class="text-black font-montserrat" href="service.html">Service</a></li>
+					<li class="active mb-[7px]"><a class="text-black font-montserrat" href="portfolio.html">Portfolio</a></li>
+					<li class="mb-[7px]"><a class="text-black font-montserrat" href="news.html">News</a></li>
+					<li><a class="text-black font-montserrat" href="contact.html">Contact</a></li>
+				</ul>
+			</div>
+		</div>
+		<!-- /MOBILE MENU -->
+
+		<!-- LEFTPART -->
+		<div class="leftpart w-[450px] h-[100vh] fixed flex items-center z-[12] px-[100px] py-[0px] bg-white">
+			<div class="leftpart_inner w-full h-auto">
+				<div class="logo" data-type="image"> <!-- You can use image or text as logo. data-type values are: "image" and "text" -->
+					<a href="home.html">
+						<img class="max-w-[150px]" src="assets/img/logo/logod.png" alt="" />
+						<h3 class="font-poppins font-black text-[31px] tracking-[5px]">TOKYO</h3>
+					</a>
+				</div>
+				<div class="menu px-[0px] py-[50px] w-full float-left">
+					<ul class="transition_link m-0 list-none">
+						<li class="m-0 w-full float-left"><a class="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black" href="home.html">Home</a></li>
+						<li class="m-0 w-full float-left"><a class="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black" href="about.html">About</a></li>
+						<li class="m-0 w-full float-left"><a class="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black" href="service.html">Service</a></li>
+						<li class="active m-0 w-full float-left"><a class="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black" href="portfolio.html">Portfolio</a></li>
+						<li class="m-0 w-full float-left"><a class="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black" href="news.html">News</a></li>
+						<li class="m-0 w-full float-left"><a class="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black" href="contact.html">Contact</a></li>
+					</ul>
+				</div>
+				<div class="copyright w-full float-left">
+					<p class="text-[15px] text-[#999] font-montserrat leading-[25px]">&copy; 2026 Dipty<br>Created by dtrixithub.com <a class="text-[#787878] font-medium transition-all duration-300 hover:text-black" href="https://themeforest.net/user/dtrix" target="_blank"><dtrixithub class="com"></dtrixithub></a></p>
+				</div>
+			</div>
+		</div>
+		<!-- /LEFTPART -->
+
+		<!-- RIGHTPART -->
+		<div class="rightpart w-full min-h-[100vh] float-left relative bg-[#f8f8f8] pl-[450px]">
+			<div class="rightpart_in relative w-full float-left clear-both border-solid border-[#ebebeb] border-l min-h-[100vh]">
+
+				<div id="portfolio" class="tokyo_tm_section active">
+					<div class="container">
+						<div class="tokyo_tm_portfolio w-full h-auto clear-both float-left px-0 pt-[100px] pb-[40px]">
+							<div class="tokyo_tm_title w-full h-auto clear-both float-left mb-[62px]">
+								<div class="title_flex w-full h-auto clear-both flex justify-between items-end">
+									<div class="left">
+										<span class="inline-block bg-[rgba(0,0,0,.04)] uppercase py-[4px] px-[10px] font-semibold text-[12px] text-[#333] font-montserrat tracking-[0px] mb-[11px]">Portfolio</span>
+										<h3 class="font-extrabold font-montserrat">Portfolio</h3>
+									</div>
+									<div class="portfolio_filter">
+										<ul class="list-none">
+											<li class="mr-[25px] inline-block"><a href="#" class="current text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black" data-filter="*">All</a></li>
+											<li class="mr-[25px] inline-block"><a class="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black" href="#" data-filter=".vimeo">P-1</a></li>
+											<li class="mr-[25px] inline-block"><a class="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black" href="#" data-filter=".youtube">P-2</a></li>
+											<li class="mr-[25px] inline-block"><a class="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black" href="#" data-filter=".soundcloud">P-3</a></li>
+											<li class="mr-[25px] inline-block"><a class="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black" href="#" data-filter=".image">P-4</a></li>
+											<li class="inline-block"><a class="text-[#767676] inline-block font-medium font-montserrat transition-all duration-300 hover:text-black" href="#" data-filter=".detail">Detail</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="list_wrapper w-full h-auto clear-both float-left">
+								<ul class="portfolio_list gallery_zoom ml-[-40px] list-none">
+									<!-- Portfolio items for 1.png to 11.png -->
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 1" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/1.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/1.png" alt="Portfolio 1" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/1.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 2" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/2.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/2.png" alt="Portfolio 2" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/2.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 3" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/3.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/3.png" alt="Portfolio 3" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/3.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 4" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/4.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/4.png" alt="Portfolio 4" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/4.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 5" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/5.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/5.png" alt="Portfolio 5" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/5.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 6" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/6.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/6.png" alt="Portfolio 6" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/6.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 7" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/7.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/7.png" alt="Portfolio 7" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/7.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 8" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/8.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/8.png" alt="Portfolio 8" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/8.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 9" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/9.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/9.png" alt="Portfolio 9" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/9.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 10" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/10.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/10.png" alt="Portfolio 10" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/10.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 11" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/11.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/11.png" alt="Portfolio 11" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/11.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="youtube mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Ashley Flores" data-category="P-2">
+												<a class="popup-youtube" href="https://www.youtube.com/watch?v=7e90gBu4pas">
+													<img class="opacity-0 min-w-full" src="assets/img/thumbs/11.png" alt="" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/11.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="soundcloud mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Derek Smith" data-category="Soundcloud">
+												<a class="soundcloude_link mfp-iframe audio" href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/471954807&amp;color=%23ff5500&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true">
+													<img class="opacity-0 min-w-full" src="assets/img/thumbs/1-1.jpg" alt="" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/4.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="image mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Gloria Jenkins" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/5.png">
+													<img class="opacity-0 min-w-full" src="assets/img/thumbs/1-1.jpg" alt="" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/6.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<!-- Only portfolio images 1.png to 11.png -->
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 1" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/1.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/1.png" alt="Portfolio 1" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/1.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 2" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/2.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/2.png" alt="Portfolio 2" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/2.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 3" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/3.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/3.png" alt="Portfolio 3" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/3.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 4" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/4.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/4.png" alt="Portfolio 4" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/4.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 5" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/5.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/5.png" alt="Portfolio 5" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/5.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 6" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/6.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/6.png" alt="Portfolio 6" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/6.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 7" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/7.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/7.png" alt="Portfolio 7" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/7.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 8" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/8.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/8.png" alt="Portfolio 8" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/8.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 9" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/9.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/9.png" alt="Portfolio 9" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/9.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 10" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/10.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/10.png" alt="Portfolio 10" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/10.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+									<li class="portfolio mb-[40px] float-left w-1/3 pl-[40px]">
+										<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+											<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Portfolio 11" data-category="Image">
+												<a class="zoom" href="assets/img/portfolio/11.png">
+													<img class="opacity-0 min-w-full" src="assets/img/portfolio/11.png" alt="Portfolio 11" />
+													<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/11.png"></div>
+												</a>
+											</div>
+										</div>
+									</li>
+															<div class="details_all_wrap w-full h-auto clear-both float-left">
+																<div class="popup_details">
+																	<div class="main_details w-full h-auto clear-both flex mb-[90px]">
+																		<div class="textbox w-[70%] pr-[40px]">
+																			<p class="mb-[20px]">We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.</p>
+																			<p>Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.</p>
+																		</div>
+																		<div class="detailbox w-[30%] pl-[40px]">
+																			<ul class="list-none">
+																				<li class="mb-[8px] w-full float-left">
+																					<span class="first font-bold block text-black mb-[3px]">Client</span>
+																					<span>Alvaro Morata</span>
+																				</li>
+																				<li class="mb-[8px] w-full float-left">
+																					<span class="first font-bold block text-black mb-[3px]">Category</span>
+																					<span><a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Detail</a></span>
+																				</li>
+																				<li class="mb-[8px] w-full float-left">
+																					<span class="first font-bold block text-black mb-[3px]">Date</span>
+																					<span>October 22, 2022</span>
+																				</li>
+																				<li class="w-full float-left">
+																					<span class="first font-bold block text-black mb-[3px]">Share</span>
+																					<ul class="share list-none relative top-[7px]">
+																						<li class="mr-[10px] inline-block"><a class="text-black text-[18px]" href="#"><i class="icon-facebook-squared"></i></a></li>
+																						<li class="mr-[10px] inline-block"><a class="text-black text-[18px]" href="#"><i class="icon-twitter-squared"></i></a></li>
+																						<li class="mr-[10px] inline-block"><a class="text-black text-[18px]" href="#"><i class="icon-behance-squared"></i></a></li>
+																						<li class="inline-block"><a class="text-black text-[18px]" href="#"><i class="icon-linkedin-squared"></i></a></li>
+																					</ul>
+																				</li>
+																			</ul>
+																		</div>
+																	</div>
+																	<div class="additional_images w-full h-auto clear-both float-left">
+																		<ul class="ml-[-30px] list-none">
+																			<li class="mb-[30px] float-left w-1/2 pl-[30px]">
+																				<div class="list_inner w-full h-auto clear-both float-left relative">
+																					<div class="my_image relative">
+																						<img class="opacity-0 min-w-full" src="assets/img/thumbs/4-2.jpg" alt="" />
+																						<div class="main absolute inset-0 bg-no-repeat bg-center bg-cover" data-img-url="assets/img/portfolio/1.png"></div>
+																					</div>
+																				</div>
+																			</li>
+																			<li class="mb-[30px] float-left w-1/2 pl-[30px]">
+																				<div class="list_inner w-full h-auto clear-both float-left relative">
+																					<div class="my_image relative">
+																						<img class="opacity-0 min-w-full" src="assets/img/thumbs/4-2.jpg" alt="" />
+																						<div class="main absolute inset-0 bg-no-repeat bg-center bg-cover" data-img-url="assets/img/portfolio/2.png"></div>
+																					</div>
+																				</div>
+																			</li>
+																			<li class="mb-[30px] float-left w-1/2 pl-[30px]">
+																				<div class="list_inner w-full h-auto clear-both float-left relative">
+																					<div class="my_image relative">
+																						<img class="opacity-0 min-w-full" src="assets/img/thumbs/4-2.jpg" alt="" />
+																						<div class="main absolute inset-0 bg-no-repeat bg-center bg-cover" data-img-url="assets/img/portfolio/3.jpg"></div>
+																					</div>
+																				</div>
+																			</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</li>
+														<li class="detail mb-[40px] float-left w-1/3 pl-[40px]">
+															<div class="inner w-full h-auto clear-both float-left overflow-hidden relative">
+																<div class="entry tokyo_tm_portfolio_animation_wrap" data-title="Ave Simone" data-category="Detail">
+																	<a class="popup_info" href="#">
+																		<img class="opacity-0 min-w-full" src="assets/img/thumbs/1-1.jpg" alt="" />
+																		<div class="abs_image absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="assets/img/portfolio/8.jpg"></div>
+																	</a>
+																</div>
+															</div>
+															
+															<!-- Portfolio Popup Start -->
+															<div class="details_all_wrap w-full h-auto clear-both float-left">
+																<div class="popup_details">
+																	<div class="main_details w-full h-auto clear-both flex mb-[90px]">
+																		<div class="textbox w-[70%] pr-[40px]">
+																			<p class="mb-[20px]">We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.</p>
+																			<p>Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.</p>
+																		</div>
+																		<div class="detailbox w-[30%] pl-[40px]">
+																			<ul class="list-none">
+																				<li class="mb-[8px] w-full float-left">
+																					<span class="first font-bold block text-black mb-[3px]">Client</span>
+																					<span>Alvaro Morata</span>
+																				</li>
+																				<li class="mb-[8px] w-full float-left">
+																					<span class="first font-bold block text-black mb-[3px]">Category</span>
+																					<span><a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Detail</a></span>
+																				</li>
+																				<li class="mb-[8px] w-full float-left">
+																					<span class="first font-bold block text-black mb-[3px]">Date</span>
+																					<span>October 22, 2022</span>
+																				</li>
+																				<li class="w-full float-left">
+																					<span class="first font-bold block text-black mb-[3px]">Share</span>
+																					<ul class="share list-none relative top-[7px]">
+																						<li class="mr-[10px] inline-block"><a class="text-black text-[18px]" href="#"><i class="icon-facebook-squared"></i></a></li>
+																						<li class="mr-[10px] inline-block"><a class="text-black text-[18px]" href="#"><i class="icon-twitter-squared"></i></a></li>
+																						<li class="mr-[10px] inline-block"><a class="text-black text-[18px]" href="#"><i class="icon-behance-squared"></i></a></li>
+																						<li class="inline-block"><a class="text-black text-[18px]" href="#"><i class="icon-linkedin-squared"></i></a></li>
+																					</ul>
+																				</li>
+																			</ul>
+																		</div>
+																	</div>
+																	<div class="additional_images w-full h-auto clear-both float-left">
+																		<ul class="ml-[-30px] list-none">
+																			<li class="mb-[30px] float-left w-1/2 pl-[30px]">
+																				<div class="list_inner w-full h-auto clear-both float-left relative">
+																					<div class="my_image relative">
+																						<img class="opacity-0 min-w-full" src="assets/img/thumbs/4-2.jpg" alt="" />
+																						<div class="main absolute inset-0 bg-no-repeat bg-center bg-cover" data-img-url="assets/img/portfolio/1.png"></div>
+																					</div>
+																				</div>
+																			</li>
+																			<li class="mb-[30px] float-left w-1/2 pl-[30px]">
+																				<div class="list_inner w-full h-auto clear-both float-left relative">
+																					<div class="my_image relative">
+																						<img class="opacity-0 min-w-full" src="assets/img/thumbs/4-2.jpg" alt="" />
+																						<div class="main absolute inset-0 bg-no-repeat bg-center bg-cover" data-img-url="assets/img/portfolio/2.png"></div>
+																					</div>
+																				</div>
+																			</li>
+																			<li class="mb-[30px] float-left w-1/2 pl-[30px]">
+																				<div class="list_inner w-full h-auto clear-both float-left relative">
+																					<div class="my_image relative">
+																						<img class="opacity-0 min-w-full" src="assets/img/thumbs/4-2.jpg" alt="" />
+																						<div class="main absolute inset-0 bg-no-repeat bg-center bg-cover" data-img-url="assets/img/portfolio/3.jpg"></div>
+																					</div>
+																				</div>
+																			</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+															<!-- /Portfolio Popup End -->
+															
+														</li>
+													</ul>
+												</div>
+											</div>	
+										</div>
+									</div>	
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+
+			</div>
+		</div>
+		<!-- /RIGHTPART -->
+
+    </div>
+    <!-- /WRAPPER ALL -->
+
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/init.js"></script>
+
+</body>
+</html>
