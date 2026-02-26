@@ -43,9 +43,18 @@ class ContactController extends Controller
             // 3. Return "OK" as expected by the frontend JS
             return 'OK';
         } catch (Exception $e) {
-            // Log the error if needed
-            // \Log::error($e->getMessage());
-            return $e->getMessage() . 'Sorry, something went wrong. Please try again later.';
+          // We changed Exception to \Throwable. This catches EVERYTHING, 
+            // even fatal PHP errors, and the backslash ensures it doesn't look 
+            // in the wrong namespace.
+
+            // 1. Log the exact error and the stack trace to laravel.log
+            \Log::error('Mail sending failed: ' . $e->getMessage(), [
+                'file' => $e->getFile(),
+                'line' => $e->getLine()
+            ]);
+
+            // 2. Return the exact message to the frontend (temporarily)
+            return 'MAIL ERROR: ' . $e->getMessage();
         }
     }
 }
