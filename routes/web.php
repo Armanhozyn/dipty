@@ -27,7 +27,7 @@ Route::get('/test-smtp', function () {
 
         // 2. Send a basic raw email (Bypasses your Mailable class entirely)
         Mail::raw('This is a raw SMTP test email from Laravel.', function ($message) {
-            $message->to('armanhossen591@gmail.com')
+            $message->to('test-8eryenwck@srv1.mail-tester.com')
                     ->subject('Absolute Raw SMTP Test');
         });
 
