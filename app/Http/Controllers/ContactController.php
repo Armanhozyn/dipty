@@ -45,7 +45,7 @@ class ContactController extends Controller
         } catch (Exception $e) {
             // Log the error if needed
             // \Log::error($e->getMessage());
-            return 'Sorry, something went wrong. Please try again later.';
+            return $e->getMessage() . 'Sorry, something went wrong. Please try again later.';
         }
     }
 }
