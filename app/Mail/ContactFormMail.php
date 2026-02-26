@@ -19,10 +19,16 @@ class ContactFormMail extends Mailable
         $this->data = $data;
     }
 
+    // public function build()
+    // {
+    //     return $this->from(env('MAIL_FROM_ADDRESS'), env('MAIL_FROM_NAME'))
+    //         ->subject('New Contact Inquiry: ' . $this->data['subject'])
+    //         ->view('emails.contact'); // We will create this view next
+    // }
+
     public function build()
     {
-        return $this->from(env('MAIL_FROM_ADDRESS'), env('MAIL_FROM_NAME'))
-            ->subject('New Contact Inquiry: ' . $this->data['subject'])
-            ->view('emails.contact'); // We will create this view next
+        return $this->subject('New Contact Inquiry: ' . $this->data['subject'])
+                    ->view('emails.contact');
     }
 }
