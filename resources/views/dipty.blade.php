@@ -1307,6 +1307,9 @@ Let’s create something meaningful together—innovative, visually compelling, 
 											<li class="w-full mb-[30px] float-left">
 												<input id="name" type="text" placeholder="Name" name="name">
 											</li>
+                                            <li class="w-full mb-[30px] float-left">
+												<input id="subject" type="text" placeholder="Subject" name="subject">
+											</li>
 											<li class="w-full mb-[30px] float-left">
 												<input id="email" type="text" placeholder="Email" name="email">
 											</li>
