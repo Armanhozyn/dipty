@@ -13,6 +13,7 @@
 	<link rel="stylesheet" href="{{ asset('assets/css/custom.css') }}">
 	<link rel="stylesheet" href="{{ asset('assets/css/main.css') }}">
     <title>Dipty</title>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 <body class="dark">
 
@@ -1297,24 +1298,34 @@ Let’s create something meaningful together—innovative, visually compelling, 
 
 							</div>
 							<div class="fields w-full float-left clear-both h-auto">
-								<form action="https://marketifythemes.net/" method="post" class="contact_form" id="contact_form" autocomplete="off">
+								<form action="{{ route('contact.send') }}" method="post" id="contact-form" class="contact_form" autocomplete="off">
+                                    @csrf
 									<div class="returnmessage" data-success="Your message has been received, We will contact you soon."></div>
 									<div class="empty_notice"><span>Please Fill Required Fields</span></div>
 									<div class="first w-full float-left">
 										<ul class="list-none">
 											<li class="w-full mb-[30px] float-left">
-												<input id="name" type="text" placeholder="Name">
+												<input id="name" type="text" placeholder="Name" name="name">
 											</li>
 											<li class="w-full mb-[30px] float-left">
-												<input id="email" type="text" placeholder="Email">
+												<input id="email" type="text" placeholder="Email" name="email">
 											</li>
 										</ul>
 									</div>
 									<div class="last">
-										<textarea id="message" placeholder="Message"></textarea>
+										<textarea id="message" placeholder="Message" name="message"></textarea>
 									</div>
 									<div class="tokyo_tm_button" data-position="left">
-										<a id="send_message" href="#">
+                                        <div class="form-group">
+                                            <div class="g-recaptcha" data-sitekey="{{ env('NOCAPTCHA_SITEKEY') }}"></div>
+                                            <div class="validate-error" id="err-recaptcha"></div>
+                                        </div>
+                                        <div class="my-3">
+                                            <div class="loading">Loading</div>
+                                            <div class="error-message"></div>
+                                            <div class="sent-message">Your message has been sent. Thank you!</div>
+                                        </div>
+										<a id="send" href="#">
 											<span>Send Message</span>
 										</a>
 									</div>
@@ -1346,6 +1357,109 @@ Let’s create something meaningful together—innovative, visually compelling, 
 	<script src="{{ asset('assets/js/init.js') }}"></script>
     <!-- /SCRIPTS -->
 
+
+    <script>
+        document.getElementById('send').addEventListener('click', function(event) {
+            debugger;
+            event.preventDefault(); // Stop the form from reloading the page
+
+            let valid = true;
+            const form = document.getElementById('contact-form');
+
+            // --- 1. CLEAR OLD ERRORS ---
+            document.querySelectorAll('.validate-error').forEach(el => el.style.display = 'none');
+            document.querySelectorAll('.form-control').forEach(el => el.classList.remove('is-invalid'));
+            document.querySelector('.sent-message').style.display = 'none';
+            document.querySelector('.error-message').style.display = 'none';
+
+            // --- 2. VALIDATION LOGIC ---
+            const recaptchaResponse = grecaptcha.getResponse();
+
+            if (recaptchaResponse.length === 0) {
+                document.getElementById('err-recaptcha').innerText = "Please verify that you are not a robot.";
+                document.getElementById('err-recaptcha').style.display = "block";
+                valid = false;
+            }
+            // Name Validation
+            const name = form.querySelector('input[name="name"]');
+            if (name.value.trim() === '') {
+                showError(name, 'Please enter your name');
+                valid = false;
+            }
+
+            // Email Validation
+            const email = form.querySelector('input[name="email"]');
+            const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/; // Simple Regex
+            if (!emailPattern.test(email.value.trim())) {
+                showError(email, 'Please enter a valid email');
+                valid = false;
+            }
+
+            // Subject Validation
+            const subject = form.querySelector('input[name="subject"]');
+            if (subject.value.trim().length < 4) {
+                showError(subject, 'Subject must be at least 4 chars');
+                valid = false;
+            }
+
+            // Message Validation
+            const message = form.querySelector('textarea[name="message"]');
+            if (message.value.trim() === '') {
+                showError(message, 'Please write something for us');
+                valid = false;
+            }
+
+            // If validation fails, stop here
+            if (!valid) return;
+
+            // --- 3. SEND TO BACKEND (AJAX) ---
+            document.querySelector('.loading').style.display = 'block';
+
+            const formData = new FormData(form);
+
+            const actionUrl = form.getAttribute('action');
+
+            fetch(actionUrl, {
+                    method: 'POST',
+                    body: formData,
+                    headers: {
+                        'X-Requested-With': 'XMLHttpRequest', // Tells Laravel it's AJAX
+                        'X-CSRF-TOKEN': document.querySelector('input[name="_token"]').value // Laravel Token
+                    }
+                })
+                .then(response => {
+                    if (response.ok) {
+                        return response.text();
+                    }
+                    throw new Error('Network response was not ok.');
+                })
+                .then(data => {
+                    document.querySelector('.loading').style.display = 'none';
+                    if (data.trim() === 'OK') {
+                        document.querySelector('.sent-message').style.display = 'block';
+                        form.reset(); // Clear the form
+                    } else {
+                        throw new Error(data);
+                    }
+                })
+                .catch(error => {
+                    document.querySelector('.loading').style.display = 'none';
+                    const errorDiv = document.querySelector('.error-message');
+                    errorDiv.innerHTML = 'Form submission failed: ' + error.message;
+                    errorDiv.style.display = 'block';
+                });
+        });
+
+        // Helper function to show errors
+        function showError(input, message) {
+            input.classList.add('is-invalid');
+            const errorDiv = input.nextElementSibling; // Assumes the .validate-error div is right after input
+            if (errorDiv) {
+                errorDiv.innerText = message;
+                errorDiv.style.display = 'block';
+            }
+        }
+    </script>
 </body>
 
 </html>
