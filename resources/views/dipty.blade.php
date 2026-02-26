@@ -14,6 +14,63 @@
 	<link rel="stylesheet" href="{{ asset('assets/css/main.css') }}">
     <title>Dipty</title>
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+    <style>
+
+        
+        /* PHP Email Form Messages
+        ------------------------------*/
+        .php-email-form .error-message {
+        display: none;
+        background: #df1529;
+        color: #ffffff;
+        text-align: left;
+        padding: 15px;
+        margin-bottom: 24px;
+        font-weight: 600;
+        }
+
+        .php-email-form .sent-message {
+        display: none;
+        color: #ffffff;
+        background: #059652;
+        text-align: center;
+        padding: 15px;
+        margin-bottom: 24px;
+        font-weight: 600;
+        }
+
+        .php-email-form .loading {
+        display: none;
+        background: var(--surface-color);
+        text-align: center;
+        padding: 15px;
+        margin-bottom: 24px;
+        }
+
+        .php-email-form .loading:before {
+        content: "";
+        display: inline-block;
+        border-radius: 50%;
+        width: 24px;
+        height: 24px;
+        margin: 0 10px -6px 0;
+        border: 3px solid var(--accent-color);
+        border-top-color: var(--surface-color);
+        animation: php-email-form-loading 1s linear infinite;
+        }
+
+        @keyframes php-email-form-loading {
+        0% {
+            transform: rotate(0deg);
+        }
+
+        100% {
+            transform: rotate(360deg);
+        }
+        }
+
+    </style>
 </head>
 <body class="dark">
 
@@ -1298,7 +1355,7 @@ Let’s create something meaningful together—innovative, visually compelling, 
 
 							</div>
 							<div class="fields w-full float-left clear-both h-auto">
-								<form action="{{ route('contact.send') }}" method="post" id="contact-form" class="contact_form" autocomplete="off">
+								<form action="{{ route('contact.send') }}" method="post" id="contact-form" class="contact_form php-email-form" autocomplete="off">
                                     @csrf
 									<div class="returnmessage" data-success="Your message has been received, We will contact you soon."></div>
 									<div class="empty_notice"><span>Please Fill Required Fields</span></div>
