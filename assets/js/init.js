@@ -13,7 +13,7 @@ jQuery(document).ready(function(){
 	tokyo_tm_modalbox();
 	tokyo_tm_page_transition();
 	tokyo_tm_trigger_menu();
-	tokyo_tm_service_popup();
+	// tokyo_tm_service_popup();
 	tokyo_tm_modalbox_news();
 	tokyo_tm_modalbox_portfolio();
 	tokyo_tm_my_progress();
