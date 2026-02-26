@@ -38,6 +38,8 @@ class ContactController extends Controller
             // 2. Send the email to both your addresses
             $recipients = ['dipty@rafusoft.com', 'armanhossen591@gmail.com'];
 
+            return 'Laravel thinks the mailer is: ' . config('mail.default');
+
             Mail::to($recipients)->send(new ContactFormMail($data));
 
             // 3. Return "OK" as expected by the frontend JS
