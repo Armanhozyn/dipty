@@ -40,7 +40,7 @@
                 Fahima Dipty | Dhaka, Bangladesh
             </p>
             <p style="font-size: 12px; color: #9ca3af; margin: 0;">
-                This email was sent from the contact form on <a href="https://dipty.info" style="color: #149ddd; text-decoration: none;">dipty.info</a>.<br>
+                This email was sent from the contact form on <a href="https://dipty.info" style="color: #149ddd; text-decoration: none;">dipty.info</a><br>
                 Host: {{ request()->ip() }} | Timestamp: {{ now()->format('Y-m-d H:i:s') }}
             </p>
         </div>
