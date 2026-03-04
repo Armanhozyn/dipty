@@ -12,7 +12,7 @@
         </div>
 
         <div style="padding: 30px;">
-            <p style="font-size: 16px; margin-bottom: 25px;">You have received a new message via the contact form on <strong>hozyn.net</strong>.</p>
+            <p style="font-size: 16px; margin-bottom: 25px;">You have received a new message via the contact form on <strong>dipty.info</strong>.</p>
             
             <table style="width: 100%; border-collapse: collapse; margin-bottom: 25px;">
                 <tr>
