@@ -37,10 +37,10 @@
 
         <div style="background-color: #f9fafb; padding: 20px; text-align: center; border-top: 1px solid #e5e7eb;">
             <p style="font-size: 11px; color: #9ca3af;">
-                Arman Hossain | Developer Portfolio | Chattogram, Bangladesh
+                Fahima Dipty | Dhaka, Bangladesh
             </p>
             <p style="font-size: 12px; color: #9ca3af; margin: 0;">
-                This email was sent from the contact form on <a href="https://hozyn.net" style="color: #149ddd; text-decoration: none;">hozyn.net</a>.<br>
+                This email was sent from the contact form on <a href="https://dipty.info" style="color: #149ddd; text-decoration: none;">dipty.info</a>.<br>
                 Host: {{ request()->ip() }} | Timestamp: {{ now()->format('Y-m-d H:i:s') }}
             </p>
         </div>
