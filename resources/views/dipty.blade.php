@@ -1183,10 +1183,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">17 Aug 2025</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">The Rafusoft Birthday Celebration Event 2025</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1195,17 +1195,12 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
+													<p class="text-[20px]">On 17 August 2025, the team at Rafusoft came together to celebrate a special day filled with joy, appreciation, and inspiration. The Rafusoft Birthday Celebration Event 2025 was not only a moment of celebration but also an opportunity for the team to reflect on achievements, strengthen relationships, and look ahead toward future innovation.</p>
 												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1222,10 +1217,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Alex Watson</a> <span class="relative">22 Oct 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">4 Nov 2025</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Format releases a new tool that enables direct video hosting</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">At Medical College for Women and Hospital, Uttara.</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1234,17 +1229,27 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Honored to Anchor the University Activation Program 2025</p>
+												<p class="mb-[22px]">At Medical College for Women and Hospital, Uttara.</p>
+												<p class="mb-[22px]">I had the incredible opportunity to serve as the anchor of the University Activation Program (UAP) 2025, organized by the iDEA Project, ICT Division at Medical College for Women and Hospital, Uttara.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
+													<p class="text-[20px]">It was truly inspiring to witness the enthusiasm of students as they explored innovation, entrepreneurship, and the vision of building a Smart Bangladesh. &#127775;</p>
 												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">The event brought together inspiring leaders, educators, and innovators who shared valuable insights on startup development, idea validation, and the opportunities available through the iDEA initiative.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">A heartfelt thanks to our distinguished guests whose presence made the event truly memorable:</p>
+												<ul class="list-disc pl-[22px] bigger text-[#888] text-[20px] mb-[31px]">
+													<li class="mb-[6px]">Shafin Rahman Shimanta - Founder &amp; CEO, Oleek NextCorp</li>
+													<li class="mb-[6px]">Siddhartho Goushami - Senior Consultant &amp; Team Leader, iDEA Project, ICT Division</li>
+													<li class="mb-[6px]">Prof. Dr. Taslima Islam - Vice Principal, Medical College for Women and Hospital</li>
+													<li class="mb-[6px]">Brig. Gen. (Retd.) Dr. Md. Momimur Rahman Mamun - Director, Medical College for Women and Hospital</li>
+													<li class="mb-[6px]">Prof. Dr. Major (Retd.) Sheikh Firoj Kabir - Principal, Medical College for Women and Hospital</li>
+													<li>Murtuza Zulkar Nain Noman - Joint Secretary &amp; Project Director, iDEA Project, ICT Division</li>
+												</ul>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">The program featured engaging sessions on startup idea development, innovation strategies, and practical guidance on preparing pitch decks and applying for the iDEA Pre-Seed Grant.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">It was an honor to be the voice of the program and facilitate such an inspiring gathering. Looking forward to more opportunities to connect, engage, and inspire young innovators and future entrepreneurs.</p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1261,10 +1266,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Brook Kennedy</a> <span class="relative">15 Oct 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">26 Apr 2025</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Sony announced two new full frame cameras with zero fanfare</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Executive Roundtable Networking Event at Takumi Restaurant</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1273,17 +1278,9 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
-												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
-													<div class="icon absolute left-0 top-[5px]">
-														<i class="icon-quote-left text-[40px] text-black"></i>
-													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
-												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p class="mb-[22px]">The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Had an amazing time attending the Executive Roundtable Networking Event for CXO leaders at Takumi Restaurant!</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">It was a warm, friendly, and inspiring gathering where I had the opportunity to meet incredible leaders, exchange ideas, and build meaningful connections. The atmosphere was welcoming, the conversations were engaging, and the experience was truly memorable.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Sharing a few highlights from the evening—both group and solo shots! Grateful for the insights, connections and positive vibes that made this event so special.</p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1300,10 +1297,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Paola Atkins</a> <span class="relative">07 Oct 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">03 Nov 2025</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Why every photographer should shoot film, even in 2022</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">University Activation Programme at AIUB, organized by iDEA Project, ICT Division</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1312,17 +1309,14 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">It was truly an inspiring day — learning about pitch deck development, the iDEA Pre-Seed Grant, and exploring entrepreneurial ideas through an engaging masterclass and pitching session.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
+													<p class="text-[20px]">Grateful to be part of the University Activation Programme at AIUB, organized by iDEA Project, ICT Division under the inspiring theme “Empowering Youth, Building the Nation.”</p>
 												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Loved connecting with passionate students, innovators, and mentors who share the same vision for youth empowerment and innovation.</p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1339,10 +1333,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">08 Mar 2020</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#"> Attending the International Women’s Day Program</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1351,17 +1345,15 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">I had the wonderful opportunity to attend a special program on International Women’s Day focused on women’s empowerment, awareness, and economic independence. The event featured engaging discussions and inspiring messages about the importance of empowering women in every sphere of life.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
+													<p class="text-[20px]">Our startup “স্বাধীন নারী” (Swadhin Nari) was also highlighted, sharing its vision of supporting and uplifting women toward financial independence and self-reliance.</p>
 												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">The session, broadcast live on Dhaka FM 90.4 from 4 PM to 5 PM, was insightful and motivating. It was truly inspiring to witness the commitment of so many people to women’s progress and empowerment.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Grateful to have attended and learned so much!</p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1378,10 +1370,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">07 Apr 2025</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Bangladesh Startup Connect on 7 April 2025 at the InterContinental Hotel, Dhaka.</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1390,17 +1382,14 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
+													<p class="text-[20px]">I had the amazing opportunity to attend Bangladesh Startup Connect on 7 April 2025 at the InterContinental Hotel, Dhaka.</p>
 												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">The event was a hub of innovation, networking, and entrepreneurship, bringing together startup founders, investors, industry leaders, and ecosystem enablers. It was inspiring to witness the exchange of ideas, explore collaboration opportunities, and learn about the latest trends shaping Bangladesh’s vibrant startup ecosystem.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Grateful for the insightful sessions, engaging conversations, and the chance to connect with like-minded innovators. Events like these continue to motivate and empower the startup community to grow and make an impact. </p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1417,10 +1406,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">2024</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">4th International Robo Tech Olympiad 2024 – Rafusoft as Sponsor & Judge!</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1429,17 +1418,15 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">I had the honor of attending the 4th International Robo Tech Olympiad 2024 as a sponsor and judge representing Rafusoft, organized by Daffodil International University in collaboration with Robo Tech Valley.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
+													<p class="text-[20px]">The event showcased incredible innovations and competitive projects in categories like Robo Soccer, Drone Challenge, and more. It was truly inspiring to evaluate the participants’ creativity, technical skills, and problem-solving abilities firsthand.</p>
 												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Congratulations to all participants and winners! 
+												Events like these are vital for nurturing innovation, technology, and STEM skills among the next generation. I’m proud that Rafusoft could contribute to this exciting journey. </p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1456,10 +1443,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">2 Apr 2023 </span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Digital Innovation for Gender Equality “আইসিটি ভিশন” program On 2 April 2023</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1468,17 +1455,14 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
+													<p class="text-[20px]">On 2 April 2023, I had the privilege of attending the “আইসিটি ভিশন” program, featuring a compelling session on “জেন্ডার বৈষম্য নিরসনে ডিজিটাল প্রযুক্তি ও উদ্ভাবন” (Digital Technology & Innovation to Eliminate Gender Inequality).</p>
 												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">The event highlighted how technology and innovation can play a crucial role in promoting gender equality, empowering women, and addressing systemic challenges in society. It was inspiring to see experts share actionable insights, innovative solutions, and strategies to leverage ICT for social impact.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Being part of this program was truly enlightening, reaffirming the importance of integrating digital solutions to create a more inclusive and equitable society.</p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1495,10 +1479,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">2024</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Launching the Volunteer Engagement Program – Auto Rice Mill</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1507,17 +1491,20 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
+													<p class="text-[20px]">I had the honor of serving as the main host for the Volunteer Engagement Program, organized in collaboration with Auto Rice Mill and the rice-selling field marketing team under aponn.com. The program officially started in 2024 and aims to empower local sellers, streamline field marketing operations, and create a strong network of volunteers to support sales and community engagement.</p>
 												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">As the host, I had the privilege of kick-starting the event, welcoming participants, and guiding them through the program objectives. The event focused on:</p>
+												<ul class="mb-[22px] list-disc pl-[22px] bigger text-[20px] text-[#888]">
+													<li class="mb-[6px]">Strengthening collaboration among rice sellers and field marketing teams.</li>
+													<li class="mb-[6px]">Promoting efficient sales strategies and marketing techniques.</li>
+													<li class="mb-[6px]">Encouraging volunteer participation to support sustainable growth and community engagement.</li>
+												</ul>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">It was inspiring to see so many dedicated individuals come together with energy, commitment, and enthusiasm for the program. The initiative is not only about sales but also about building a strong, supportive community of entrepreneurs and volunteers. 🌟</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Looking forward to seeing the positive impact this program will bring to local businesses and the community!</p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1534,10 +1521,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">26 Apr 2025</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Executive Roundtable Networking – 26 April 2025 | Takumi Restaurant</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1546,56 +1533,14 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
+													<p class="text-[20px]">Had an amazing time at the CXO leaders' networking event! 
+													Met incredible leaders, shared ideas, and built meaningful connections across companies.
+													Grateful for the team photos, insights, and positive vibes from this inspiring evening. </p>
 												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
-											</div>
-										</div>
-										<!-- /News Popup End -->
-										
-									</div>
-								</li>
-								<li class="mb-[50px] float-left w-1/2 pl-[50px]">
-									<div class="list_inner w-full clear-both float-left h-auto relative">
-										<div class="image relative overflow-hidden">
-											<img class="min-w-full opacity-0" src="{{ asset('assets/img/thumbs/40-25.jpg') }}" alt="" />
-											<div class="main absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="{{ asset('assets/img/events/7.png') }}"></div>
-											<a class="tokyo_tm_full_link" href="#"></a>
-										</div>
-										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
-											<div class="extra flex items-center justify-between mb-[25px] relative">
-												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
-												</div>
-											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
-											<div class="tokyo_tm_read_more">
-												<a href="#"><span>Read More</span></a>
-											</div>
-										</div>
-										
-										<!-- News Popup Start -->
-										<div class="main_content w-full float-left">
-											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
-												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
-													<div class="icon absolute left-0 top-[5px]">
-														<i class="icon-quote-left text-[40px] text-black"></i>
-													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
-												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1625,16 +1570,47 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
 												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
 													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
 												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+											</div>
+										</div>
+										<!-- /News Popup End -->
+										
+									</div>
+								</li>
+								<li class="mb-[50px] float-left w-1/2 pl-[50px]">
+									<div class="list_inner w-full clear-both float-left h-auto relative">
+										<div class="image relative overflow-hidden">
+											<img class="min-w-full opacity-0" src="{{ asset('assets/img/thumbs/40-25.jpg') }}" alt="" />
+											<div class="main absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="{{ asset('assets/img/events/7.png') }}"></div>
+											<a class="tokyo_tm_full_link" href="#"></a>
+										</div>
+										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
+											<div class="extra flex items-center justify-between mb-[25px] relative">
+												<div class="short">
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">2025</span></p>
+												</div>
+											</div>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#"> Leading as Chief Operating Officer (COO)  at Rafusoft – rafusoft.com</a></h3>
+											<div class="tokyo_tm_read_more">
+												<a href="#"><span>Read More</span></a>
+											</div>
+										</div>
+										
+										<!-- News Popup Start -->
+										<div class="main_content w-full float-left">
+											<div class="descriptions w-full float-left">
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">I’m proud to serve as the Chief Operating Officer (COO) at Rafusoft, where I work alongside a team of exceptional programmers and innovators dedicated to delivering cutting-edge software solutions.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">At Rafusoft, we embrace collaboration, creativity, and problem-solving, tackling challenges together and driving innovation in every project. It’s inspiring to be part of a team that welcomes ideas, fosters growth, and continually pushes technology's boundaries.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Grateful to my incredible colleagues for making every day an exciting opportunity to learn and excel! </p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1651,10 +1627,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">2025</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Presenting on Email & Digital Marketing – Dhaka University | Service Management & Tourism</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1663,17 +1639,15 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
-												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
-													<div class="icon absolute left-0 top-[5px]">
-														<i class="icon-quote-left text-[40px] text-black"></i>
-													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
-												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">I had the privilege to present a session on email marketing and the importance of digital marketing at Dhaka University, under the Service Management and Tourism program.</p>
+
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">The presentation focused on:</p>
+												<ul class="mb-[22px] list-disc pl-[22px] bigger text-[20px] text-[#888]">
+													<li class="mb-[6px]">Email marketing strategies for effective engagement.</li>
+													<li class="mb-[6px]">The critical role of digital marketing in modern business and tourism services.</li>
+													<li class="mb-[6px]">How leveraging digital platforms can enhance customer experience, brand visibility, and service management efficiency.</li>
+												</ul>
+												<p class="mb-[22px] list-disc pl-[22px] bigger text-[20px] text-[#888]">It was inspiring to interact with students, share insights, and discuss practical approaches for integrating digital marketing into real-world business and tourism scenarios.</p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1690,10 +1664,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">2025</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Grateful Meeting with the Chinese Mechanical Engineering Team – Rafusoft Innovations</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1702,17 +1676,9 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
-												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
-													<div class="icon absolute left-0 top-[5px]">
-														<i class="icon-quote-left text-[40px] text-black"></i>
-													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
-												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">We had an incredible and grateful meeting with our Chinese mechanical engineering team to discuss and showcase Rafusoft’s latest innovations and projects.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">The session was inspiring as we explored new technologies, collaborative opportunities, and cutting-edge solutions. It was a great chance to share ideas, learn from each other, and strengthen our international teamwork and engineering collaboration.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Truly thankful for the team’s enthusiasm, professionalism, and insights. Excited for the future projects and innovations that will come from this collaboration!</p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1729,10 +1695,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">2025</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Great to Meet Rekeka Nila from Augmedix Inc.</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1741,17 +1707,13 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
+													<p class="text-[20px]">Had the pleasure of meeting Rekeka Nila, a representative from Augmedix Inc., during a recent event. It was a wonderful opportunity to connect, exchange ideas, and learn more about the innovative work their company is doing in the healthcare technology sector.</p>
 												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Events like these create valuable spaces for networking, collaboration, and sharing insights across industries. Grateful for the conversation and looking forward to more inspiring interactions in the future.</p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
@@ -1769,10 +1731,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">26 Jan 2025</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">QOVO – Launching a New Era of Innovation On 26 January 2025</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1782,16 +1744,125 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
 												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="mb-[22px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
+													<p class="text-[20px]">On 26 January 2025, QOVO proudly continues its journey of delivering modern, innovative, and high-quality services. With a commitment to easy, fast, and reliable solutions, QOVO aims to make life simpler and better through technology and innovation.</p>
 												</div>
-												<p class="mb-[22px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="mb-[22px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p>The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">This is a special moment for our team as we showcase our latest initiatives, products, and services, while connecting with partners, clients, and stakeholders who share our vision.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">At QOVO, we believe in solutions tailored to your needs, leveraging technology to empower individuals, businesses, and communities alike. </p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Join us in celebrating this exciting journey and experience the future of smart, efficient services!</p>
+											</div>
+										</div>
+										<!-- /News Popup End -->
+										
+									</div>
+								</li>
+
+
+								<li class="mb-[50px] float-left w-1/2 pl-[50px]">
+									<div class="list_inner w-full clear-both float-left h-auto relative">
+										<div class="image relative overflow-hidden">
+											<img class="min-w-full opacity-0" src="{{ asset('assets/img/thumbs/40-25.jpg') }}" alt="" />
+											<div class="main absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="{{ asset('assets/img/events/15.jpeg') }}"></div>
+											<a class="tokyo_tm_full_link" href="#"></a>
+										</div>
+										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
+											<div class="extra flex items-center justify-between mb-[25px] relative">
+												<div class="short">
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">24 Jun 2025</span></p>
+												</div>
+											</div>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Hi-Tech Park Authority, & British Council ICT Division, Bangladesh.</a></h3>
+											<div class="tokyo_tm_read_more">
+												<a href="#"><span>Read More</span></a>
+											</div>
+										</div>
+										
+										<!-- News Popup Start -->
+										<div class="main_content w-full float-left">
+											<div class="descriptions w-full float-left">
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">In 2023, I had the opportunity to attend an important collaborative meeting organized by ICT Division, Bangladesh, Hi-Tech Park Authority, and the British Council.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">The meeting focused on freelancer development, discussing strategies to support freelancers in Bangladesh, including skill development, certification, and recognition. One of the key outcomes was exploring collaboration with the British Council for English language certification and approval, which will help freelancers gain formal recognition and expand their global opportunities.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">It was inspiring to witness the commitment of government bodies and international partners in empowering the freelance community and promoting professional growth in Bangladesh.</p>
+											</div>
+										</div>
+										<!-- /News Popup End -->
+										
+									</div>
+								</li>
+
+
+								<li class="mb-[50px] float-left w-1/2 pl-[50px]">
+									<div class="list_inner w-full clear-both float-left h-auto relative">
+										<div class="image relative overflow-hidden">
+											<img class="min-w-full opacity-0" src="{{ asset('assets/img/thumbs/40-25.jpg') }}" alt="" />
+											<div class="main absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="{{ asset('assets/img/events/17.jpeg') }}"></div>
+											<a class="tokyo_tm_full_link" href="#"></a>
+										</div>
+										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
+											<div class="extra flex items-center justify-between mb-[25px] relative">
+												<div class="short">
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">2024</span></p>
+												</div>
+											</div>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">2024 | Core Member Meeting on Freelancing Opportunities for NU Graduates – Organized by a2i</a></h3>
+											<div class="tokyo_tm_read_more">
+												<a href="#"><span>Read More</span></a>
+											</div>
+										</div>
+										
+										<!-- News Popup Start -->
+										<div class="main_content w-full float-left">
+											<div class="descriptions w-full float-left">
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">I had the privilege of attending and contributing as a core member to a strategic meeting focused on freelancing opportunities for National University (NU) graduates and students. The session was organized under the EEP (Entrepreneurship and Employment Program) by a2i (Access to Information) Programme.</p>
+												
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">The meeting aimed to:</p>
+
+												<ul class="mb-[22px] list-disc pl-[22px] bigger text-[20px] text-[#888]">
+													<li class="mb-[6px]">Identify pathways for NU students and graduates to enter the freelancing ecosystem</li>
+													<li class="mb-[6px]">Explore skill development programs and practical support for freelancers.</li>
+													<li class="mb-[6px]">Discuss strategies to enhance employability and income opportunities through digital platforms.</li>
+												</ul>
+
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">It was inspiring to collaborate with fellow core members and stakeholders to shape actionable initiatives that empower students and graduates to succeed in freelancing and digital entrepreneurship</p>
+											</div>
+										</div>
+										<!-- /News Popup End -->
+										
+									</div>
+								</li>
+
+								<li class="mb-[50px] float-left w-1/2 pl-[50px]">
+									<div class="list_inner w-full clear-both float-left h-auto relative">
+										<div class="image relative overflow-hidden">
+											<img class="min-w-full opacity-0" src="{{ asset('assets/img/thumbs/40-25.jpg') }}" alt="" />
+											<div class="main absolute inset-0 bg-no-repeat bg-cover bg-center transition-all duration-300" data-img-url="{{ asset('assets/img/events/18.jpeg') }}"></div>
+											<a class="tokyo_tm_full_link" href="#"></a>
+										</div>
+										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
+											<div class="extra flex items-center justify-between mb-[25px] relative">
+												<div class="short">
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">05 Apr 2025</span></p>
+												</div>
+											</div>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Participating as a Freelancer and Entrepreneur – Smart Entrepreneur: Smart Bangladesh</a></h3>
+											<div class="tokyo_tm_read_more">
+												<a href="#"><span>Read More</span></a>
+											</div>
+										</div>
+										
+										<!-- News Popup Start -->
+										<div class="main_content w-full float-left">
+											<div class="descriptions w-full float-left">
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">I had the incredible opportunity to participate in the seminar “Smart Entrepreneur: Smart Bangladesh”, organized by iDEA Foundation and the ICT Division, Bangladesh. It was an enriching experience to present myself as a freelancer and a successful woman entrepreneur, and to engage with distinguished personalities from the industry and government.</p>
+												
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">Hearing valuable insights from esteemed speakers, including Honorable State Minister Mr. Zunaid Ahmed Palak, MP, was truly inspiring. I am also grateful to Humayun Kabir Sir for providing me the opportunity to be part of this seminar. Being surrounded by familiar and inspiring faces made the event even more meaningful.</p>
+
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">The seminar focused on the importance of entrepreneurs in building a Smart Bangladesh and the key actions required to contribute effectively to this vision.</p>
+
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">It was a proud moment to reflect on the role of women in entrepreneurship and the growing freelancing ecosystem in Bangladesh.</p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
