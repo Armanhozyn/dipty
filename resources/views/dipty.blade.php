@@ -1926,7 +1926,7 @@ Let’s create something meaningful together—innovative, visually compelling, 
                                             <div class="error-message"></div>
                                             <div class="sent-message">Your message has been sent. Thank you!</div>
                                         </div>
-										<a id="send" href="#">
+										<a id="send" href="#" style="margin-top:30px">
 											<span>Send Message</span>
 										</a>
 									</div>
