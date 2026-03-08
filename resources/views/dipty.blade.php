@@ -1557,10 +1557,10 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<div class="details w-full float-left px-[40px] pt-[30px] pb-[25px] bg-white transition-all duration-300">
 											<div class="extra flex items-center justify-between mb-[25px] relative">
 												<div class="short">
-													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Kevin Stone</a> <span class="relative">25 Sep 2022</span></p>
+													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">2025</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Stay creative in lockdown with these fun photo projects</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Leading the Presentation & Launching EduSeeds’ New Products at Dhaka University</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
@@ -1569,17 +1569,19 @@ Let’s create something meaningful together—innovative, visually compelling, 
 										<!-- News Popup Start -->
 										<div class="main_content w-full float-left">
 											<div class="descriptions w-full float-left">
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Just because we can't get out and about like we normally would, doesn’t mean we have to stop taking pictures. There’s still plenty you can do, provided you're prepared to use some imagination. Here are a few ideas to keep you shooting until normal life resumes.</p>
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Most photographers love to shoot the unusual, and you don’t get much more unusual than These Unprecedented Times. Right now everything counts as out of the ordinary. There are a number of remarkable things about these lockdown days that are worth photographing now so we can remember them when it is all over.</p>
 												<div class="quotebox w-full clear-both float-left h-auto relative pl-[70px] mb-[24px]">
 													<div class="icon absolute left-0 top-[5px]">
 														<i class="icon-quote-left text-[40px] text-black"></i>
 													</div>
-													<p class="text-[20px]">Most photographers find it hard to see interesting pictures in places in which they are most familiar. A trip somewhere new seems always exactly what our photography needed, as shooting away from home consistently inspires us to new artistic heights.</p>
+													<p class="text-[20px]">I had the incredible opportunity to lead the presentation and introduce new EduSeeds products at Dhaka University, showcasing innovative solutions designed to empower students and educators.</p>
 												</div>
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Streets empty that are usually busy are remarkable and can evoke the sense of historical pictures from before the invention of the motorcar. Other things that are different at the moment will be queues to get into stores and the lines marked out on the floor to show how far apart we should be.</p>
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">Pretend everything is new and that you haven’t seen it before, and then you will be free to notice the leading lines, the places where one edge meets another in delightful geometric harmony, and how the ordinary things in the kitchen are transformed when the light is on or off.</p>
-												<p class="bigger text-[#888] text-[20px] mb-[31px]">The trick here is to look slowly, and then look again. Take the time to look in detail and to look at the same thing from different angles, with different light, long lenses and wide lenses. Then move to the left a bit. You may never feel the need to leave the house again.</p>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">The session highlighted:</p>
+												<ul class="mb-[22px] list-disc pl-[22px] bigger text-[20px] text-[#888]">
+													<li class="mb-[6px]">Key features and benefits of the new products.</li>
+													<li class="mb-[6px]">How these tools enhance modern learning and skill development.</li>
+													<li class="mb-[6px]">Engagement with the audience to gather feedback and insights for improvement.</li>
+												</ul>
+												<p class="bigger text-[#888] text-[20px] mb-[31px]">It was an inspiring experience to share EduSeeds’ vision and help advance education and innovation at one of Bangladesh’s premier institutions. </p>
 											</div>
 										</div>
 										<!-- /News Popup End -->
