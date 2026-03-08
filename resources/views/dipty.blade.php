@@ -1560,7 +1560,7 @@ Let’s create something meaningful together—innovative, visually compelling, 
 													<p class="date font-montserrat text-[13px] text-[#767676]">By <a class="text-[#767676] transition-all duration-300 hover:text-black" href="#">Dipty</a> <span class="relative">2025</span></p>
 												</div>
 											</div>
-											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#">Leading the Presentation & Launching EduSeeds’ New Products at Dhaka University</a></h3>
+											<h3 class="title mb-[10px] leading-[1.4]"><a class="text-black text-[18px] font-semibold inline-block transition-all duration-300 hover:text-black" href="#"> Launching EduSeeds’ New Products at Dhaka University</a></h3>
 											<div class="tokyo_tm_read_more">
 												<a href="#"><span>Read More</span></a>
 											</div>
